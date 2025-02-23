@@ -1,16 +1,60 @@
-# freelancer_test_prject
 
-A new Flutter project.
+# Freelancer Flutter Project 
 
-## Getting Started
+This application showcase the Login UI using phonenumber. For authentication I have used Firebase Phone Number Auth. It uses OTP to verify the user.
 
-This project is a starting point for a Flutter application.
+For Code Design I have used following pattern 
 
-A few resources to get you started if this is your first Flutter project:
+       main.dart
+       \lib\core
+             \service
+                \ firebase_phone_auth_service.dart
+             \utils
+                \assets.dart
+             \service_locator.dart <-- Defined the Singleton Class Here --> 
+           \feature
+                \home
+                  \pages
+                    \home_page.dart
+                  \widgets
+                \login
+                  \pages
+                    \login_page.dart
+                  \widgets
+                     \login_widget.dart
+                     \resend_otp_widget.dart
+                
+       
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/someshwar16/freelance-flutter-project.git
+```
+
+Go to the project directory
+
+```bash
+  cd freelance-flutter-project
+```
+
+Install dependencies
+
+```bash
+  flutter pub get 
+```
+
+Run the application
+
+```bash
+  flutter run
+```
+
+
+## Screenshots
+
+
