@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "499029947273",
+    "project_id": "argha-optics-inventory",
+    "storage_bucket": "argha-optics-inventory.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499029947273:android:232fc733c5af266b10a758",
+        "android_client_info": {
+          "package_name": "com.argha.optics.inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499029947273-0pnnla2nke1le0pmt0k8k11m3k6vtjqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.argha.optics.inventory",
+            "certificate_hash": "a621b407a61ceefe4850f7cd22246b012d6dded4"
+          }
+        },
+        {
+          "client_id": "499029947273-05j274uh3kavt4nvaai37gc0utlihr2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Zrv47zGJhTnt0ka_7U9KgxfZ7OtGgrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499029947273-05j274uh3kavt4nvaai37gc0utlihr2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499029947273-ohsl5m8ibgcbe2d0m5ve6lm32370c4pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.argha.optics.inventory-ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499029947273:android:14def3d22189c1d710a758",
+        "android_client_info": {
+          "package_name": "com.example.freelancer_test_prject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499029947273-05j274uh3kavt4nvaai37gc0utlihr2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Zrv47zGJhTnt0ka_7U9KgxfZ7OtGgrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499029947273-05j274uh3kavt4nvaai37gc0utlihr2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499029947273-ohsl5m8ibgcbe2d0m5ve6lm32370c4pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.argha.optics.inventory-ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
