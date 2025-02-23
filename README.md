@@ -57,4 +57,10 @@ Run the application
 
 ## Screenshots
 
+https://github.com/user-attachments/assets/f9a340cd-d7b5-42a5-b5a9-29754fb61808
+
+
+![OTP_SS](https://github.com/user-attachments/assets/8a7e1242-0bfb-4fbb-9bfe-ca17d96850c1)
+
+
 
